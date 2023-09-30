@@ -4,7 +4,7 @@ This is a basic post-it note project using react and the [Next.js](https://nextj
 ### Setup
 1. Clone onto your local machine using:
 ``` bash
-git clone git@github.com:jonathanguven/nextjs-crud.git
+git@github.com:jonathanguven/crud.git
 ```
 
 2. Start PocketBase database:
