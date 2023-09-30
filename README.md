@@ -12,7 +12,7 @@ git clone git@github.com:jonathanguven/nextjs-crud.git
 ./pocketbase serve
 ```
 
-3. Open the [Admin UI](http://127.0.0.1:8090/_/), create a collection, and update API rules to allow read/write access from all users.
+3. Open the [Admin UI](http://127.0.0.1:8090/_/), create a collection with two text fields - title and content -  and update API rules to allow read/write access from all users.
 
 4. Start the dev server using:
 ```bash
