@@ -15,7 +15,7 @@ npm install
 ./pocketbase serve
 ```
 
-4. Open the [Admin UI](http://127.0.0.1:8090/_/), create a collection called notes with two text fields
+4. Open the [Admin UI](http://127.0.0.1:8090/_/), create a collection called notes with two text fields:
    - title
    - content
 5. Then, update API rules to allow read/write access from all users.
