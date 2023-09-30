@@ -6,19 +6,22 @@ This is a basic post-it note project using react and the [Next.js](https://nextj
 ``` bash
 git@github.com:jonathanguven/crud.git
 ```
-
-2. Start PocketBase database:
+2. Install dependencies
+```bash
+npm install
+```
+3. Start PocketBase database:
 ``` bash
 ./pocketbase serve
 ```
 
-3. Open the [Admin UI](http://127.0.0.1:8090/_/), create a collection with two text fields - title and content -  and update API rules to allow read/write access from all users.
+4. Open the [Admin UI](http://127.0.0.1:8090/_/), create a collection with two text fields - title and content -  and update API rules to allow read/write access from all users.
 
-4. Start the dev server using:
+5. Start the dev server using:
 ```bash
 npm run dev
 ```
 
-5. Open `http://localhost:3000` in your browser.
+6. Open `http://localhost:3000` in your browser.
 
 
