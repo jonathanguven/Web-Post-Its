@@ -7,6 +7,11 @@ This is a basic post-it note project using react and the [Next.js](https://nextj
 git clone git@github.com:jonathanguven/nextjs-crud.git
 ```
 
+2. Start PocketBase database:
+``` bash
+./pocketbase serve
+```
+
 
 
 
